@@ -57,3 +57,16 @@ Once you click Allow you will see a list of 50 contacts
 ![](images/example1Output.png)
 
 You should be able to look at the javascript inside the index.html and start to get an idea of the possibilities.  This is a very simple example but we only created one file at 16 lines and included a library. 
+
+
+### Example 2: Simple ECMAScript6 using TypeScript, Webpack, and  Force-Server
+
+
+* Derived from from  [New Version of ForceJS: A JavaScript Library for using the Salesforce APIs in ECMAScript 6 Apps](http://coenraets.org/blog/2016/11/new-version-of-forcejs-a-javascript-library-for-using-the-salesforce-apis-in-ecmascript-6-apps/) by Chris Coenrates 11/17/2016 with updated documents and instructions
+* Working Just Need to Document
+
+
+### Example 3: Angular2 example
+
+* Derived from Chris Coenraets [Sample Application with Angular 2 and Salesforce REST Services](http://coenraets.org/blog/2015/12/angular2-rest-salesforce/) 12/18/2015 
+* Working Just Need to Document
