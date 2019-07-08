@@ -1,0 +1,17 @@
+<html>
+<body>
+<ul id="list"></ul>
+<script src="./force.js"></script>
+<script>
+force.login(function() {
+    force.query('select id, Name from account LIMIT 50', function (response) {
+        var str = '';
+        for (var i = 0; i < response.records.length; i++) {
+            str += '<li>' + response.records[i].Name + '</li>';
+        }
+        document.getElementById('list').innerHTML = str;
+    });
+});
+</script>
+</body>
+</html>
