@@ -50,4 +50,6 @@ force.login(function() {
 
 You should see the following:
 ![](images/example1AuthApp.png)
-Once you click Allow you will see a list of 50 contacts
+Once you click Allow you will see a list of 50 contacts ![](images/example1Output.png)
+
+You should be able to look at the javascript inside the index.html and start to get an idea of the possibilities.  This is a very simple example but we only created one file at 16 lines and included a library. 
